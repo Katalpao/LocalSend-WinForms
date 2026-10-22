@@ -1,7 +1,9 @@
 # LocalSend-WinForms
 
 **This project is temporarily suspended from updates**
+
 **该项目暂时停止更新**
+
 turn to ：https://github.com/Katalpao/localsend-win32
 
 一款基于 **LocalSend v2 协议** 实现的 Windows 局域网文件传输工具，可与其他 LocalSend v2客户端自动发现、互相收发文件。
